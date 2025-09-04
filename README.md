@@ -6,7 +6,7 @@ AI deep computer vision object detection to detect and predict the percentage of
 
 # Author of the project: 
 
-موفق الذيابي، مشروع التخرج في الجامعة، بكالوريوس في عام 2014 
+موفق الذيابي، تميم هادي مشروع التخرج في الجامعة، بكالوريوس في عام 2014 
  
 
 # contributors from IBM: 
